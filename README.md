@@ -58,9 +58,11 @@ Column description.
 - **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors
 - **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
 
-
-
-
+## References
+- (Inspiratopn) https://github.com/datascisteven/King-County-Housing-Price-Prediction/blob/main/housing_eda.ipynb
+- (Inspiration) https://medium.com/swlh/determining-significant-features-in-a-house-sale-b501cfd01077
+- (For color) https://plotly.com/python/colorscales/
+- (Overview technques) https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook
 
 ## Requirements
 
